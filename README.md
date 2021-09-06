@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Brian, a Senior Preceptor at Harvard's [Division of Continuing Education](https://dce.harvard.edu/).
+I'm Brian, a Software Engineer at [Automattic](https://automattic.com).
 
 ## My Projects
 
@@ -11,6 +11,8 @@ I'm Brian, a Senior Preceptor at Harvard's [Division of Continuing Education](ht
 And see more projects on this GitHub profile!
 
 ## Courses I've Created at Harvard
+
+Before joining Automattic, I was a Senior Preceptor teaching computer science at [Harvard University](https://www.harvard.edu). While at Harvard, I created the following courses.
 
 * [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai)
 * [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web)

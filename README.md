@@ -5,6 +5,7 @@ I'm Brian, a Software Engineer at [Automattic](https://automattic.com).
 ## My Projects
 
 * [Spanning Tree](https://www.youtube.com/spanningtree), an educational video series on topics in computer science and mathematics
+* [Classroometrics](https://classroometrics.com), a live feedback tool for students and teachers
 * [Tenacity](http://tenacity.brianyu.me/), an online game about computer science principles
 * [Jeopardy Player](https://jeopardy.brianyu.me/), an online interface for building custom trivia games
 

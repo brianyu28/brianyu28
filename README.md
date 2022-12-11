@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Brian, a Software Engineer at [Automattic](https://automattic.com).
+I'm Brian, a software devleoper and educator living in Boston, Massachusetts.
 
 ## My Projects
 

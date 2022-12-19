@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Brian, a software devleoper and educator living in Boston, Massachusetts.
+I'm Brian, a software developer and educator living in Boston, Massachusetts.
 
 ## My Projects
 

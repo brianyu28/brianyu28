@@ -6,6 +6,7 @@ I'm Brian, a software developer and educator living in Boston, Massachusetts.
 
 * [Spanning Tree](https://www.youtube.com/spanningtree), an educational video series on topics in computer science and mathematics
 * [Presenter.js](https://github.com/brianyu28/presenter), a presentation tool for programmatically building animated visual slides
+* [Magnolia](https://github.com/SpanningTreeLab/magnolia), a Python library for developing 2D and 3D animated videos with Blender
 * [Streamline](https://github.com/brianyu28/streamline), a text-expanding automation app for macOS
 * [Classroometrics](https://classroometrics.com), a live feedback tool for students and teachers
 * [Tenacity](http://tenacity.brianyu.me/), a game focused on principles of computer science

@@ -5,7 +5,7 @@ I'm Brian, an educator and software developer.
 ## Software
 
 * [Presenter.js](https://github.com/brianyu28/presenter), a presentation tool for programmatically building animated visual slides
-  [Little Useful](https://github.com/brianyu28/little-useful), a collection of little, useful tools
+* [Little Useful](https://github.com/brianyu28/little-useful), a collection of little, useful tools
 * [Magnolia](https://github.com/brianyu28/magnolia), a Python library for developing 2D and 3D animated videos with Blender
 * [Streamline](https://github.com/brianyu28/streamline), a text-expanding automation app for macOS
 * [Classroometrics](https://classroometrics.com), a live feedback tool for students and teachers
